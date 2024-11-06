@@ -1,4 +1,4 @@
-# Test dari PT Dlabs Indonesia Infotech
+# Test from PT Dlabs Indonesia Infotech
 
 Welcome to DataTech Dashboard! This project provides a CRUD user application built with React, Tailwind CSS, and Vite as the build tool.
 
